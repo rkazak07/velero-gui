@@ -43,4 +43,4 @@ Velero-UI provides the following features:
 
 
 ## Contributing
-Contributions to Velero-UI are welcome! If you find a bug or have a feature request contact
+Contributions to Velero-UI are welcome! If you find a bug or have a feature request contact.
