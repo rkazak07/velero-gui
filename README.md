@@ -2,7 +2,7 @@
 # VELERO GUI USER MANUEL
 
 ## Features
-Velero-UI provides the following features:
+Velero-GUI provides the following features:
 
 * Backup and restore Kubernetes resources
 * View backup logs and status
@@ -43,4 +43,4 @@ Velero-UI provides the following features:
 
 
 ## Contributing
-Contributions to Velero-UI are welcome! If you find a bug or have a feature request contact.
+We welcome contributions to Velero-GUI! Please contact me if you find a bug or have a feature request.
