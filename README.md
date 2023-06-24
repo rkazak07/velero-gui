@@ -1,35 +1,5 @@
 
-# velero gui user manual
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# VELERO GUI USER MANUEL
 
 ## Features
 Velero-UI provides the following features:
@@ -38,6 +8,36 @@ Velero-UI provides the following features:
 * View backup logs and status
 * View restore logs and status
 * Schedule backups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
